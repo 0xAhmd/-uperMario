@@ -26,17 +26,20 @@ To run the project locally and start contributing, follow these steps:
 
 1. **Clone the Repository**: 
    ```
-   git clone https://github.com/your-username/supermario-basic-game.git
+   git clone https://github.com/0xAhmd/-uperMario.git
    ```
 
 2. **Navigate to Project Directory**:
    ```
-   cd supermario-basic-game
+   cd $uperMario
    ```
 
 3. **Install Dependencies**:
    ```
-   flutter pub get
+   flutter pub get audioplayers
+   flutter pub get cupertino_icons
+   flutter pub get google_fonts
+   
    ```
 
 4. **Run the App**:
@@ -44,6 +47,6 @@ To run the project locally and start contributing, follow these steps:
    flutter run
    ```
 
-5. **Start Contributing!**
+## **Start Contributing!**
 
 
