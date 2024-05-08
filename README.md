@@ -20,12 +20,7 @@ This project is open to contributions to enhance and complete the gameplay exper
 3. **Code Optimization**: Improve the codebase for better performance, readability, and maintainability.
 4. **Documentation**: Enhance the documentation to provide clear instructions for developers and players.
 
-##Contributing
-Fork it (https://github.com/0xAhmd/-uperMario.git/fork)
-Create your feature branch (git checkout -b feature/fooBar)
-Commit your changes (git commit -am 'Add some features')
-Push to the branch (git push origin feature/fooBar)
-Create a new Pull Request
+
 ## Getting Started:
 
 To run the project locally and start contributing, follow these steps:
