@@ -81,3 +81,6 @@ To run the project locally and start contributing, follow these steps:
 ## **Start Contributing!**
 
 Thank you for considering contributing to SuperMario Basic Game with Dart and Flutter. Your contributions will help make this project even more awesome! If you have any questions or need assistance, feel free to reach out to the project maintainers. Let's make Mario proud! 🍄🎮
+
+For inquiries, contact: ahmedhesham200987@gmail.com
+
